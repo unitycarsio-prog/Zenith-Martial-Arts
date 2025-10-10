@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Martial Arts Path",
+  "description": "An AI-powered web application that generates personalized learning plans for various martial arts. Select your discipline and desired training duration to receive a custom-tailored course from beginner to proficient.",
+  "requestFramePermissions": []
+}
