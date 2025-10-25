@@ -1,6 +1,7 @@
 import type { MartialArt, Duration } from './types';
 
 export const MARTIAL_ARTS: MartialArt[] = [
+  { name: 'Wrestling', image: 'https://picsum.photos/seed/wrestling/400/300', color: 'red' },
   { name: 'MMA', image: 'https://picsum.photos/seed/mma/400/300', color: 'orange' },
   { name: 'Karate', image: 'https://picsum.photos/seed/karate/400/300', color: 'red' },
   { name: 'Judo', image: 'https://picsum.photos/seed/judo/400/300', color: 'sky' },
@@ -32,6 +33,12 @@ export const MARTIAL_ARTS: MartialArt[] = [
   { name: 'Shorinji Kempo', image: 'https://picsum.photos/seed/kempo/400/300', color: 'blue' },
   { name: 'Pankration', image: 'https://picsum.photos/seed/pankration/400/300', color: 'pink' },
   { name: 'Bartitsu', image: 'https://picsum.photos/seed/bartitsu/400/300', color: 'gray' },
+  { name: 'Fencing', image: 'https://picsum.photos/seed/fencing/400/300', color: 'sky' },
+  { name: 'Kyudo', image: 'https://picsum.photos/seed/kyudo/400/300', color: 'indigo' },
+  { name: 'Jujutsu', image: 'https://picsum.photos/seed/jujutsu/400/300', color: 'purple' },
+  { name: 'Kenjutsu', image: 'https://picsum.photos/seed/kenjutsu/400/300', color: 'slate' },
+  { name: 'Dambe', image: 'https://picsum.photos/seed/dambe/400/300', color: 'amber' },
+  { name: 'Bokator', image: 'https://picsum.photos/seed/bokator/400/300', color: 'emerald' },
 ];
 
 export const DURATIONS: Duration[] = [
